@@ -4,7 +4,7 @@
 
 <div>
 <blockquote>
-<p><h3>QuickPerf is a testing library to quickly evaluate some performance properties.</h3></p>
+<p><h3>QuickPerf is a testing library for Java to quickly evaluate some performance properties.</h3></p>
 </blockquote>
 </div>
 
@@ -244,6 +244,44 @@ Many thanks to all our contributors!
             <br/>
             <a href="https://github.com/quick-perf/quickperf/commits?author=fabfas" title="Code">💻</a>
         </td>                
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/archyoshi">
+                <img src="https://avatars.githubusercontent.com/archyoshi" width="100px;" alt="Thami Inaflas"/>
+                <br/>
+                <sub><b>Thami Inaflas</b></sub>
+            </a>
+            <br/>
+            <a href="https://github.com/quick-perf/quickperf/commits?author=archyoshi" title="Code">💻</a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/JosePaumard">
+                <img src="https://avatars.githubusercontent.com/JosePaumard" width="100px;" alt="José Paumard"/>
+                <br/>
+                <sub><b>José Paumard</b></sub>
+            </a>
+            <br/>
+            <a href="https://github.com/quick-perf/quickperf/commits?author=JosePaumard" title="Code">💻</a>
+        </td>         
+        <td align="center">
+            <a href="https://github.com/edwardrose946">
+                <img src="https://avatars.githubusercontent.com/edwardrose946" width="100px;" alt="Edward Rose"/>
+                <br/>
+                <sub><b>Edward Rose</b></sub>
+            </a>
+            <br/>
+            <a href="https://github.com/quick-perf/quickperf/commits?author=edwardrose946" title="Code">💻</a>
+        </td>        
+        <td align="center">
+            <a href="https://github.com/UbaidurRehman1">
+                <img src="https://avatars.githubusercontent.com/UbaidurRehman1" width="100px;" alt="Ubaid ur Rehman"/>
+                <br/>
+                <sub><b>Ubaid ur Rehman</b></sub>
+            </a>
+            <br/>
+            <a href="https://github.com/quick-perf/quickperf/commits?author=UbaidurRehman1" title="Code">💻</a>
+        </td>              
     </tr>
 </table>
 <a href = "https://allcontributors.org/docs/en/emoji-key">emoji key</a>
